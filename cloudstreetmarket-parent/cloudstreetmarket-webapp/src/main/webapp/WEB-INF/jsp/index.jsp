@@ -15,5 +15,6 @@
   		Well done ! 
   	</h1>
   	<h3>You've completed the first chapter :)</h3>
+    <a href="/cloudstreetmarket_webapp_war/hello/showform">Hello world form</a>
   </body>
 </html>
